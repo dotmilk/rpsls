@@ -13,3 +13,7 @@ Where "choice" is on this list
  - scissors
  - lizard
  - spock
+
+# Inspiration
+
+Expanded from "Sinatra up and running" 
