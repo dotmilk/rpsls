@@ -4,4 +4,12 @@
 shotgun game.rb
 ```
 
-Navigate to localhost(port webrick:thin:etc)/throw/roxk:paper:scissors:lizard or spock
+Navigate to localhost(port webrick:thin:etc)/throw/choice
+
+Where "choice" is on this list
+
+*rock
+*paper
+*scissors
+*lizard
+*spock
