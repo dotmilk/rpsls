@@ -17,7 +17,6 @@ get '/throw/:type' do
       halt 403, "You must throw one of these: #{@throws}"
   end
   c_throw = @throws.sample
-  pp @defeat
 
   if p_throw == c_throw
       "Tied with computer. Try again!"
